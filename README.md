@@ -8,6 +8,7 @@
 
 ### React
 
+- [图解Redux中middleware的洋葱模型](https://github.com/fi3ework/blog/issues/14)
 - [\[译\]简明React Router v4教程](https://github.com/fi3ework/blog/issues/10)
 - [通过Github Blame深入分析Redux源码](https://github.com/fi3ework/blog/issues/7)
 - [基于Decorator的React高阶组件的思路分析与实现](https://github.com/fi3ework/blog/issues/6)

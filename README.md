@@ -9,6 +9,8 @@
 
 ### React
 
+- [避免React中的 unmount & re-mount](https://github.com/fi3ework/blog/issues/19)
+- [在React中通过反模式获取props中函数的更新](https://github.com/fi3ework/blog/issues/20)
 - [React高效渲染策略](https://github.com/fi3ework/blog/issues/15)
 - [图解Redux中middleware的洋葱模型](https://github.com/fi3ework/blog/issues/14)
 - [\[译\]简明React Router v4教程](https://github.com/fi3ework/blog/issues/10)

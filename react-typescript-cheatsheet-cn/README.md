@@ -2,7 +2,7 @@
 
 **原文地址：**[sw-yx](https://github.com/sw-yx) / [**react-typescript-cheatsheet**](https://github.com/sw-yx/react-typescript-cheatsheet)
 
-**译文地址：**[[译] react-typescript-备忘录](https://github.com/fi3ework/blog/issues/22)
+**译文地址：**[[译] react-typescript-备忘录](https://github.com/fi3ework/blog/tree/master/react-typescript-cheatsheet-cn)
 
 ## 序
 
@@ -10,7 +10,7 @@
 
 ## 第一章：配置
 
-###准备工作
+### 准备工作
 
 1. 对 [React](https://reactjs.org) 有一定的了解。
 2. 熟悉 [Typescript Types](https://www.typescriptlang.org/docs/handbook/basic-types.html)。

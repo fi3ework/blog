@@ -9,6 +9,7 @@
 
 ### React
 
+- [react-router v4 源码分析与前端路由理解](https://github.com/fi3ework/blog/issues/21)
 - [避免 React 中的 unmount & re-mount](https://github.com/fi3ework/blog/issues/19)
 - [在 React 中通过反模式获取 props 中函数的更新](https://github.com/fi3ework/blog/issues/20)
 - [React 高效渲染策略](https://github.com/fi3ework/blog/issues/15)
@@ -25,6 +26,17 @@
 - [关于 @font-face 加载前空白 (FOIT) 的解决方案](https://github.com/fi3ework/blog/issues/8)
 - [\[译\]页面生命周期：DOMContentLoaded, load, beforeunload, unload 解析](https://github.com/fi3ework/blog/issues/3)
 - [前端性能优化之关键路径渲染优化](https://github.com/fi3ework/blog/issues/16)
+
+### 设计模式
+
+#### 创建型模式
+
+- [x] [单例模式](https://github.com/fi3ework/blog/issues/24#issue-334415506)
+- [ ] [建造者模式](https://github.com/fi3ework/blog/issues/24#issuecomment-399386850)
+
+#### 结构型模式
+
+#### 行为型模式
 
 ### HTTP
 

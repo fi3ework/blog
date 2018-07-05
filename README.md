@@ -35,9 +35,11 @@
 
 ### 结构型模式
 
-- [x] [策略模式](https://github.com/fi3ework/blog/issues/27#issue-336525826)
+- [x] [代理模式](https://github.com/fi3ework/blog/issues/26#issue-336525779)
 
 ### 行为型模式
+
+- [x] [策略模式](https://github.com/fi3ework/blog/issues/27#issue-336525826)
 
 ## HTTP
 

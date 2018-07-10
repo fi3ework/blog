@@ -1,7 +1,5 @@
 <p align="center">😆 = 🛠 + 🎮 + ⚽️</p>
-<p align="center">文章见 Issues</p>
-
-
+<p align="center">🚧 归档 <a href="https://github.com/fi3ework/blog/issues">Issues</a> / 喜欢可以 Star 🚧</p>
 
 ## JavaScript
 
@@ -9,7 +7,8 @@
 
 ## React
 
-- [react-router v4 源码分析与前端路由理解](https://github.com/fi3ework/blog/issues/21)
+- [为 react-router 写一个可以缓存的 Route](https://github.com/fi3ework/blog/issues/23)
+- [前端路由实现及 react-router v4 源码分析](https://github.com/fi3ework/blog/issues/21)
 - [避免 React 中的 unmount & re-mount](https://github.com/fi3ework/blog/issues/19)
 - [在 React 中通过反模式获取 props 中函数的更新](https://github.com/fi3ework/blog/issues/20)
 - [React 高效渲染策略](https://github.com/fi3ework/blog/issues/15)
@@ -31,15 +30,17 @@
 
 ### 创建型模式
 
-- [x] [单例模式](https://github.com/fi3ework/blog/issues/24#issue-334415506)
+- [x] [单例模式](https://github.com/fi3ework/blog/issues/24#issuecomment-399386850)
 
 ### 结构型模式
 
-- [x] [代理模式](https://github.com/fi3ework/blog/issues/26#issue-336525779)
+- [x] [代理模式](https://github.com/fi3ework/blog/issues/26#issuecomment-402913677)
 
 ### 行为型模式
 
-- [x] [策略模式](https://github.com/fi3ework/blog/issues/27#issue-336525826)
+- [x] [策略模式](https://github.com/fi3ework/blog/issues/27#issuecomment-402913009)
+- [x] [责任链模式](https://github.com/fi3ework/blog/issues/27#issuecomment-402913177)
+- [x] [迭代器模式](https://github.com/fi3ework/blog/issues/27#issuecomment-402913177)
 
 ## HTTP
 

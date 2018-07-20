@@ -1,9 +1,11 @@
 <p align="center">😆 = 🛠 + 🎮 + ⚽️</p>
-<p align="center">🚧 归档 <a href="https://github.com/fi3ework/blog/issues">Issues</a> / 喜欢可以 Star 🚧</p>
+<p align="center">归档 <a href="https://github.com/fi3ework/blog/issues">Issues</a> / 喜欢可以 Star</p>
+<p align="center">🚧</p>
 
 ## JavaScript
 
 - [分析 Babel 编译代码，深入理解 ES6 的类与继承](https://github.com/fi3ework/blog/issues/13)
+- [跟着 Event loop 规范理解浏览器中的 JavaScript 异步机制 ](https://github.com/fi3ework/blog/issues/29)
 
 ## React
 

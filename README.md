@@ -25,8 +25,9 @@
 
 - [前端性能优化之浏览器渲染优化 —— 打造 60FPS 页面](https://github.com/fi3ework/blog/issues/9)
 - [关于 @font-face 加载前空白 (FOIT) 的解决方案](https://github.com/fi3ework/blog/issues/8)
-- [\[译\]页面生命周期：DOMContentLoaded, load, beforeunload, unload 解析](https://github.com/fi3ework/blog/issues/3)
+- [[译] 页面生命周期：DOMContentLoaded, load, beforeunload, unload 解析](https://github.com/fi3ework/blog/issues/3)
 - [前端性能优化之关键路径渲染优化](https://github.com/fi3ework/blog/issues/16)
+- [[译] 资源提示 —— 什么是 Preload，Prefetch 和 Preconnect？](https://github.com/fi3ework/blog/issues/32)
 
 ## 设计模式
 

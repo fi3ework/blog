@@ -28,6 +28,7 @@
 - [[译] 页面生命周期：DOMContentLoaded, load, beforeunload, unload 解析](https://github.com/fi3ework/blog/issues/3)
 - [前端性能优化之关键路径渲染优化](https://github.com/fi3ework/blog/issues/16)
 - [[译] 资源提示 —— 什么是 Preload，Prefetch 和 Preconnect？](https://github.com/fi3ework/blog/issues/32)
+- [[译] Prefetch & preconnect-dns 的优先级](https://github.com/fi3ework/blog/issues/33)
 
 ## 设计模式
 

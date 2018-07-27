@@ -32,21 +32,19 @@
 
 ## 设计模式
 
-### 创建型模式
+- [创建型模式](https://github.com/fi3ework/blog/issues/24)
 
-- [x] [单例模式](https://github.com/fi3ework/blog/issues/24#issuecomment-399386850)
-
-### 结构型模式
-
-- [x] [代理模式](https://github.com/fi3ework/blog/issues/26#issuecomment-402913677)
-
-### 行为型模式
-
-- [x] [策略模式](https://github.com/fi3ework/blog/issues/27#issuecomment-402913009)
-- [x] [责任链模式](https://github.com/fi3ework/blog/issues/27#issuecomment-402913177)
-- [x] [迭代器模式](https://github.com/fi3ework/blog/issues/27#issuecomment-402913177)
+- [结构型模式](https://github.com/fi3ework/blog/issues/26)
+- [行为型模式](https://github.com/fi3ework/blog/issues/27)
 
 ## HTTP
 
 [完全理解 HTTPS 如何做到传输安全](https://github.com/fi3ework/blog/issues/17)
 
+## Git
+
+- [Git 常用命令](https://github.com/fi3ework/blog/issues/2)
+
+## 工具类
+
+- [VSCode 配置备忘录](https://github.com/fi3ework/blog/issues/18)

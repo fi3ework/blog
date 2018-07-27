@@ -41,7 +41,6 @@
 ## 设计模式
 
 - [创建型模式](https://github.com/fi3ework/blog/issues/24)
-
 - [结构型模式](https://github.com/fi3ework/blog/issues/26)
 - [行为型模式](https://github.com/fi3ework/blog/issues/27)
 

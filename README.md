@@ -1,6 +1,5 @@
 <p align="center">😆 = 🛠 + 🎮 + ⚽️</p>
-<p align="center">归档 <a href="https://github.com/fi3ework/blog/issues">Issues</a> / 喜欢可以 Star</p>
-<p align="center">🚧</p>
+<p align="center">Archived in <a href="https://github.com/fi3ework/blog/issues">Issues</a> / Star to mark / Watch to subscribe</p>
 
 ## JavaScript
 
@@ -15,7 +14,7 @@
 - [在 React 中通过反模式获取 props 中函数的更新](https://github.com/fi3ework/blog/issues/20)
 - [React 高效渲染策略](https://github.com/fi3ework/blog/issues/15)
 - [图解 Redux 中 middleware 的洋葱模型](https://github.com/fi3ework/blog/issues/14)
-- [\[译\]简明 React Router v4 教程](https://github.com/fi3ework/blog/issues/10)
+- [\[译] 简明 React Router v4 教程](https://github.com/fi3ework/blog/issues/10)
 - [通过 Github Blame 深入分析 Redux 源码](https://github.com/fi3ework/blog/issues/7)
 - [基于 Decorator 的 React 高阶组件的思路分析与实现](https://github.com/fi3ework/blog/issues/6)
 - [为 create-react-app 配置 ESLint](https://github.com/fi3ework/blog/issues/5)
@@ -23,7 +22,7 @@
 
 ## Node.js
 
-- [从一个极简 Node 服务器的实现中能学到什么？](https://github.com/fi3ework/blog/issues/34)
+- WIP
 
 ## 性能优化
 
@@ -37,6 +36,7 @@
 ## HTTP
 
 - [完全理解 HTTPS 如何做到传输安全](https://github.com/fi3ework/blog/issues/17)
+- [浅谈 HTTP 缓存实践](https://github.com/fi3ework/blog/issues/35)
 
 ## 设计模式
 

@@ -4,7 +4,8 @@
 ## JavaScript
 
 - [分析 Babel 编译代码，深入理解 ES6 的类与继承](https://github.com/fi3ework/blog/issues/13)
-- [跟着 Event loop 规范理解浏览器中的 JavaScript 异步机制 ](https://github.com/fi3ework/blog/issues/29)
+- [跟着 Event loop 规范理解浏览器中的 JavaScript 异步机制](https://github.com/fi3ework/blog/issues/29)
+- [LazyMan 有几样写法，你知道么？](https://github.com/fi3ework/blog/issues/36)
 
 ## React
 
@@ -22,7 +23,7 @@
 
 ## Node.js
 
-- WIP
+- 🚧
 
 ## 性能优化
 
@@ -48,6 +49,6 @@
 
 - [Git 常用命令](https://github.com/fi3ework/blog/issues/2)
 
-## 工具类
+## 工具
 
 - [VSCode 配置备忘录](https://github.com/fi3ework/blog/issues/18)

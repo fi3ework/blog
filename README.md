@@ -9,6 +9,7 @@
 
 ## React
 
+- [浅析 React v16.3 新生命周期函数](https://github.com/fi3ework/blog/issues/37)
 - [为 react-router 写一个可以缓存的 Route](https://github.com/fi3ework/blog/issues/23)
 - [前端路由实现及 react-router v4 源码分析](https://github.com/fi3ework/blog/issues/21)
 - [避免 React 中的 unmount & re-mount](https://github.com/fi3ework/blog/issues/19)

@@ -1,11 +1,15 @@
 <p align="center">😆 = 🛠 + 🎮 + ⚽️</p>
-<p align="center">Archived in <a href="https://github.com/fi3ework/blog/issues">Issues</a> / Star to mark / Watch to subscribe</p>
+<p align="center">archived in <a href="https://github.com/fi3ework/blog/issues">Issues</a> </p>
 
 ## JavaScript
 
 - [分析 Babel 编译代码，深入理解 ES6 的类与继承](https://github.com/fi3ework/blog/issues/13)
 - [跟着 Event loop 规范理解浏览器中的 JavaScript 异步机制](https://github.com/fi3ework/blog/issues/29)
 - [LazyMan 有几样写法，你知道么？](https://github.com/fi3ework/blog/issues/36)
+
+## TypeScript
+
+- [[译] react-typescript-备忘录](https://github.com/fi3ework/blog/issues/22)
 
 ## React
 
